@@ -1,4 +1,4 @@
-# FindAfternoonTea
+# Library System
 The final project of Database Course 2015spring   
 
 Practice for using php,html,css&mysql to make a website for Library.  
